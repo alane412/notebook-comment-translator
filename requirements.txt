@@ -1,0 +1,4 @@
+nbformat>=5.10
+transformers>=4.44
+torch
+sentencepiece
