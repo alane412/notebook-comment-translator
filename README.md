@@ -22,4 +22,4 @@ This is useful for bilingual education, collaboration, or sharing analysis acros
 - Translate Python `#` comments  
 - Works both directions (English ↔ Spanish)  
 - Leaves code untouched  
-- Easy CLI interface  
+- Simple CLI  
