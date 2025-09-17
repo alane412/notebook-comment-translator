@@ -13,7 +13,7 @@ This is useful for bilingual education, collaboration, or sharing analysis acros
 2. Translate a notebook from **English to Spanish**
     ```bash
       python cli.py my_notebook.ipynb --direction en->es
-3. Translate a notebook from **English to Spanish**
+3. Translate a notebook from **Spanish to English**
     ```bash
         python cli.py my_notebook.ipynb --direction es->es
 ## Features
